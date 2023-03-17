@@ -15,7 +15,7 @@
 
 - 📚 In my free time, I love to read books on technology and programming, and I'm always looking to learn new skills and technologies.
 
-- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/monish-khatri-10/) OR [Gmail](khatrimk10@gmail.com) if you want to collaborate or discuss any exciting opportunities.
+- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/monish-khatri-10/) OR [Gmail](mailto:khatrimk10@gmail.com) if you want to collaborate or discuss any exciting opportunities.
 
 - 💬 Ask me about **Laravel,Git,ReactJs,Vue, Docker**
 
