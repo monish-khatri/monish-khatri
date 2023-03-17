@@ -5,13 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monish-khatri&theme=onedark&column=-1&margin-w=15" alt="monish-khatri" /></a> </p>
 
-- 🌱 I’m currently learning **AWS Services**
+- 💻 I have experience in building web applications using modern technologies such as PHP/Laravel,ReactJs, VueJs, and PostgreSQL/MySQL.
 
-- 👨‍💻 All of my projects are available at [https://github.com/monish-khatri?tab=repositories](https://github.com/monish-khatri?tab=repositories)
+- 🚀 My passion lies in creating robust, scalable, and efficient web applications that deliver exceptional user experiences.
 
-- 💬 Ask me about **Laravel,git,ReactJs,Vue**
+- 🌐 In addition to my technical skills, I also have strong collaboration and communication skills, which allows me to work effectively in team environments.
 
-- 📫 How to reach me **khatrimk10@gmail.com**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/monish-khatri?tab=repositories), where I'm responsible for designing and developing the entire web application from scratch.
+
+- 📚 In my free time, I love to read books on technology and programming, and I'm always looking to learn new skills and technologies.
+
+- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/monish-khatri-10/) OR [Gmail](khatrimk10@gmail.com) if you want to collaborate or discuss any exciting opportunities.
+
+- 💬 Ask me about **Laravel,Git,ReactJs,Vue, Docker**
 
 - ⚡ Fun fact **I think I'm funny**
 
