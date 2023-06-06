@@ -3,7 +3,7 @@
 
 <!--  Profile Views-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=monish-khatri&label=Profile%20views&color=0e75b6&style=flat" alt="monish-khatri" /> </p> -->
-<img src="https://raw.githubusercontent.com/monish-khatri/monish-khatri/main/assets/github-snake-dark.svg" />
+<!-- <img src="https://raw.githubusercontent.com/monish-khatri/monish-khatri/main/assets/github-snake-dark.svg" /> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monish-khatri&theme=onedark&column=-1&margin-w=15" alt="monish-khatri" /></a> </p>
 
