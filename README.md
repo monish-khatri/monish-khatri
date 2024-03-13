@@ -17,7 +17,7 @@
 
 - 📚 In my free time, I love to read blogs on technology and programming, and I'm always looking to learn new skills and technologies.
 
-- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/monish-khatri-10/) OR [Gmail](mailto:monishkhatriofficial@gmail.com) if you want to collaborate or discuss any exciting opportunities.
+- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/monish-khatri-10/), [Gmail](mailto:monishkhatriofficial@gmail.com) OR [Portfolio](https://monish-khatri.netlify.app/) if you want to collaborate or discuss any exciting opportunities.
 
 - 💬 Ask me about **Laravel, Git, ReactJs, VueJs, Docker**
 
