@@ -5,8 +5,6 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=monish-khatri&label=Profile%20views&color=0e75b6&style=flat" alt="monish-khatri" /> </p> -->
 <!-- <img src="https://raw.githubusercontent.com/monish-khatri/monish-khatri/main/assets/github-snake-dark.svg" /> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monish-khatri&theme=onedark&column=-1&margin-w=15" alt="monish-khatri" /></a> </p>
-
 - 💻 I have experience in building web applications using modern technologies such as PHP/Laravel, ReactJs, VueJs, and PostgreSQL/MySQL.
 
 - 🚀 My passion lies in creating robust, scalable, and efficient web applications that deliver exceptional user experiences.
@@ -17,7 +15,7 @@
 
 - 📚 In my free time, I love to read blogs on technology and programming, and I'm always looking to learn new skills and technologies.
  
-- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/monish-khatri-10/), [Gmail](mailto:monishkhatriofficial@gmail.com) OR [Portfolio](https://www.monish-khatri.in/) if you want to collaborate or discuss any exciting opportunities.
+- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/monish-khatri-10/), [Gmail](mailto:monishkhatriofficial@gmail.com) OR [Portfolio](https://monish-khatri.in/) if you want to collaborate or discuss any exciting opportunities.
 
 - 💬 Ask me about **Laravel, Git, ReactJs, VueJs, Docker**
 
@@ -112,15 +110,14 @@
   <a href="https://stackoverflow.com/users/15352279" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15352279" height="30" width="40" />
   </a>
-  <!-- <a href="https://instagram.com/ig_monish_khatri" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_monish_khatri" height="30" width="40" />
-  </a> -->
   <a href="https://www.hackerrank.com/monish_khatri" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="monish_khatri" height="30" width="40" />
   </a>
   <a href="https://twitter.com/monish_khatri" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monish_khatri" height="30" width="40" />
   </a>
+ <a href="https://gravatar.com/delicately187f3f6ed9" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/myspace.svg" alt="monish_khatri" height="30" width="40" />
 </p>
 
 <h3 align="left">Support:</h3>
